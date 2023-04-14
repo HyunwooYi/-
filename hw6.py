@@ -1,4 +1,3 @@
-#2단 ~ 5단까지 한 뭉치
 def gugudan(n) :
     for h in range(1,10,1):
 
